@@ -47,6 +47,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img src="https://avatars3.githubusercontent.com/u/29385237?s=280&v=4" alt="Hugo" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/MediaWiki_logo_1.svg" alt="MediaWiki" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
