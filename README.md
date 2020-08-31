@@ -59,11 +59,11 @@
 ### Recent Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//Banakin/FaithfulTweaks/pull/11) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-2. 🎉 Merged PR [#10](https://github.com//Banakin/FaithfulTweaks/pull/10) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-3. 🗣 Commented on [#9](https://github.com//Banakin/FaithfulTweaks/issues/9) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-4. 🎉 Merged PR [#9](https://github.com//Banakin/FaithfulTweaks/pull/9) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-5. 🗣 Commented on [#9](https://github.com//Banakin/FaithfulTweaks/issues/9) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+1. 🎉 Merged PR [#13](https://github.com//Banakin/FaithfulTweaks/pull/13) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+2. 🎉 Merged PR [#12](https://github.com//Banakin/FaithfulTweaks/pull/12) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+3. 🗣 Commented on [#12](https://github.com//Banakin/FaithfulTweaks/issues/12) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+4. 🎉 Merged PR [#11](https://github.com//Banakin/FaithfulTweaks/pull/11) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+5. 🎉 Merged PR [#10](https://github.com//Banakin/FaithfulTweaks/pull/10) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 
