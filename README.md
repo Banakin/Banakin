@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
 
-### Tools I Use 🔧
+### Technologies I'm Familiar With 🔧
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
@@ -48,6 +48,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img src="https://avatars3.githubusercontent.com/u/29385237?s=280&v=4" alt="Hugo" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+    <img src="https://framework7.io/i/logo.svg" alt="framework7" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/MediaWiki_logo_1.svg" alt="MediaWiki" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
