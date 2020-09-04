@@ -38,6 +38,11 @@
 [figma]: https://figma.com/
 [ubuntu]: https://ubuntu.com/
 
+<!-- Radar -->
+[rust]: https://www.rust-lang.org/
+[deno]: https://deno.land/
+[zig]: https://ziglang.org/
+
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm <a href="https://banakin.github.io/">Banakin</a></h1>
 
@@ -87,6 +92,13 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/>][adobexd]
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>][figma]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
+
+
+### On My Radar 🔎
+[<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>][rust]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="deno" width="40" height="40"/>][deno]
+[<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/>][zig]
+
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
