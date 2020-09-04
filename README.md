@@ -1,4 +1,4 @@
-<!-- Links -->
+<!-- My Links -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [website]: https://banakin.github.io
 [twitter]: https://twitter.com/Banakin
@@ -6,6 +6,39 @@
 [dribbble]: https://https://dribbble.com/Banakin
 [spotify]: https://open.spotify.com/user/Banakin900
 
+<!-- Languages -->
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
+[typescript]: https://www.typescriptlang.org/
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
+[dart]: https://dart.dev/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[cpp]: https://en.wikipedia.org/wiki/C++
+[csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[python]: https://www.python.org/
+[php]: https://www.php.net/
+[bash]: https://www.gnu.org/software/bash/
+
+<!-- Tools -->
+[vscode]: https://code.visualstudio.com/
+[vim]: https://www.vim.org/
+[git]: https://git-scm.com/
+[nodejs]: https://nodejs.org/
+[boostrap]: https://getbootstrap.com/
+[sass]: https://sass-lang.com/
+[hugo]: https://gohugo.io/
+[webpack]: https://webpack.js.org/
+[framework7]: https://framework7.io/
+[mediawiki]: https://www.mediawiki.org/
+[flutter]: https://flutter.dev/
+[firebase]: https://firebase.google.com/
+[gcp]: https://cloud.google.com/
+[unity]: https://unity.com/
+[adobexd]: https://www.adobe.com/products/xd.html
+[figma]: https://figma.com/
+[ubuntu]: https://ubuntu.com/
+
+<!-- Title -->
 <h1 align="center">Hey! 👋 I'm <a href="https://banakin.github.io/">Banakin</a></h1>
 
 <!-- TODO: SHIELDS -->
@@ -16,7 +49,6 @@
 - ⚡ Fun fact: **If it wasn't obvious already, I love programming**
 
 ### My Socials 💬
-
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,43 +57,38 @@
 <br />
 
 ### Languages I'm Familiar With 👨‍💻
-<p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</p>
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>][typescript]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>][css]
+[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>][dart]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>][c]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>][cpp]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>][csharp]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>][python]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>][php]
+[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>][bash]
 
 ### Technologies I'm Familiar With 🔧
-<p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://avatars3.githubusercontent.com/u/29385237?s=280&v=4" alt="Hugo" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-    <img src="https://framework7.io/i/logo.svg" alt="framework7" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/MediaWiki_logo_1.svg" alt="MediaWiki" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-</p>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>][vim]
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>][nodejs]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>][boostrap]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>][sass]
+[<img src="https://avatars3.githubusercontent.com/u/29385237?s=280&v=4" alt="Hugo" width="40" height="40"/>][hugo]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>][webpack]
+[<img src="https://framework7.io/i/logo.svg" alt="framework7" width="40" height="40"/>][framework7]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/MediaWiki_logo_1.svg" alt="MediaWiki" width="40" height="40"/>][mediawiki]
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>][flutter]
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>][firebase]
+[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>][gcp]
+[<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>][unity]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/>][adobexd]
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>][figma]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
 
 ### Recent Activity ⚡
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#13](https://github.com//Banakin/FaithfulTweaks/pull/13) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
 2. 🎉 Merged PR [#12](https://github.com//Banakin/FaithfulTweaks/pull/12) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
@@ -70,11 +97,9 @@
 5. 🎉 Merged PR [#10](https://github.com//Banakin/FaithfulTweaks/pull/10) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
-
 ### Spotify 🎧
 [<img src="https://spotify-now-playing-sepia.vercel.app/api/spotify" alt="Spotify" width="350" />][spotify]
 
 ### Github Stats 📄
 [<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
-
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banakin&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
