@@ -102,11 +102,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//FaithfulTweaks/Branding/pull/1) in [FaithfulTweaks/Branding](https://github.com//FaithfulTweaks/Branding)
-2. 🎉 Merged PR [#14](https://github.com//FaithfulTweaks/FaithfulTweaks/pull/14) in [FaithfulTweaks/FaithfulTweaks](https://github.com//FaithfulTweaks/FaithfulTweaks)
-3. 🎉 Merged PR [#13](https://github.com//Banakin/FaithfulTweaks/pull/13) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-4. 🎉 Merged PR [#12](https://github.com//Banakin/FaithfulTweaks/pull/12) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
-5. 🗣 Commented on [#12](https://github.com//Banakin/FaithfulTweaks/issues/12) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
+1. 🎉 Merged PR [#1](https://github.com//Banakin/spotify-now-playing/pull/1) in [Banakin/spotify-now-playing](https://github.com//Banakin/spotify-now-playing)
+2. 💪 Opened PR [#1](https://github.com//Banakin/spotify-now-playing/pull/1) in [Banakin/spotify-now-playing](https://github.com//Banakin/spotify-now-playing)
+3. 🎉 Merged PR [#1](https://github.com//FaithfulTweaks/Branding/pull/1) in [FaithfulTweaks/Branding](https://github.com//FaithfulTweaks/Branding)
+4. 🎉 Merged PR [#14](https://github.com//FaithfulTweaks/FaithfulTweaks/pull/14) in [FaithfulTweaks/FaithfulTweaks](https://github.com//FaithfulTweaks/FaithfulTweaks)
+5. 🎉 Merged PR [#13](https://github.com//Banakin/FaithfulTweaks/pull/13) in [Banakin/FaithfulTweaks](https://github.com//Banakin/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
