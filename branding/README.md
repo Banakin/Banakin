@@ -23,7 +23,7 @@ Here are the colors and color used in my branding.
 <!-- Gradient -->
 ## Gradient
 This is an example as to what a gradient between the orange and purple may look like. **The orange is placed at 10%** but honestly, I just do what looks good depending on the situation.
-<img src="./colors/gradient.svg?raw=true" width="400px" alt="Gradient" />
+![Gradient](./colors/gradient.svg?raw=true)
 
 <!-- Logo -->
 ## Logo
