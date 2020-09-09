@@ -18,7 +18,7 @@ Here are the colors and color used in my branding.
 - ![Purple](./colors/purple.svg?raw=true) Purple (#e100ff)
 - ![Gray](./colors/gray.svg?raw=true) Gray (#646464)
 - ![White](./colors/white.svg?raw=true) White (#ffffff)
-- ![Black](./colors/black.svg?raw=true) Black (#0a0a0a)
+- <svg xmlns="http://www.w3.org/2000/svg" width="15px" height="15px"><rect width="100%" height="100%" style="fill:#0a0a0a;" /></svg> Black (#0a0a0a)
 
 <!-- Gradient -->
 ## Gradient
