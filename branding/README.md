@@ -18,12 +18,12 @@ Here are the colors and color used in my branding.
 - ![Purple](./colors/purple.svg?raw=true) Purple (#e100ff)
 - ![Gray](./colors/gray.svg?raw=true) Gray (#646464)
 - ![White](./colors/white.svg?raw=true) White (#ffffff)
-- <svg xmlns="http://www.w3.org/2000/svg" width="15px" height="15px"><rect width="100%" height="100%" style="fill:#0a0a0a;" /></svg> Black (#0a0a0a)
+- ![Black](./colors/black.svg?raw=true) Black (#0a0a0a)
 
 <!-- Gradient -->
 ## Gradient
 This is an example as to what a gradient between the orange and purple may look like. **The orange is placed at 10%** but honestly, I just do what looks good depending on the situation.
-![Gradient](./colors/gradient.svg?raw=true)
+<img src="./colors/gradient.svg?raw=true" alt="Gradient" />
 
 <!-- Logo -->
 ## Logo
