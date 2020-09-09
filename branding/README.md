@@ -14,16 +14,16 @@ When I need a font, I usually pick [Roboto](https://fonts.google.com/specimen/Ro
 <!-- Colors -->
 ## Colors
 Here are the colors and color used in my branding.
-- <svg width="15px" height="15px"><rect width="100%" height="100%" style="fill:#ff990a;" /></svg> Orange (#ff990a)
-- <svg width="15px" height="15px"><rect width="100%" height="100%" style="fill:#e100ff;" /></svg> Purple (#e100ff)
-- <svg width="15px" height="15px"><rect width="100%" height="100%" style="fill:#646464;" /></svg> Gray (#646464)
-- <svg width="15px" height="15px"><rect width="100%" height="100%" style="fill:#ffffff;stroke-width:2;stroke:rgb(0,0,0);" /></svg> White (#ffffff)
-- <svg width="15px" height="15px"><rect width="100%" height="100%" style="fill:#0a0a0a;" /></svg> Black (#0a0a0a)
+- ![Orange](./colors/orange.png?raw=true) Orange (#ff990a)
+- ![Purple](./colors/purple.png?raw=true) Purple (#e100ff)
+- ![Gray](./colors/gray.png?raw=true) Gray (#646464)
+- ![White](./colors/white.png?raw=true) White (#ffffff)
+- ![Black](./colors/black.png?raw=true) Black (#0a0a0a)
 
 <!-- Gradient -->
 ## Gradient
 This is an example as to what a gradient between the orange and purple may look like. **The orange is placed at 10%** but honestly, I just do what looks good depending on the situation.
-<svg height="50px" width="400px"><defs><linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="10%" style="stop-color:#ff990a;stop-opacity:1"/><stop offset="100%" style="stop-color:#e100ff;stop-opacity:1"/></linearGradient></defs><rect width="100%" height="100%" fill="url(#gradient)"/></svg>
+![Gradient](./colors/gradient.png?raw=true)
 
 <!-- Logo -->
 ## Logo
