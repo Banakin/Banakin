@@ -102,11 +102,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Banakin/SteamAuth/issues/1) in [Banakin/SteamAuth](https://github.com/Banakin/SteamAuth)
-2. 🎉 Merged PR [#41](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/41) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 💪 Opened PR [#41](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/41) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. 🎉 Merged PR [#40](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/40) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 💪 Opened PR [#40](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/40) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. 🎉 Merged PR [#42](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/42) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+2. 💪 Opened PR [#42](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/42) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+3. 🗣 Commented on [#1](https://github.com/Banakin/SteamAuth/issues/1) in [Banakin/SteamAuth](https://github.com/Banakin/SteamAuth)
+4. 🎉 Merged PR [#41](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/41) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. 💪 Opened PR [#41](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/41) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
