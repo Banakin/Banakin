@@ -48,7 +48,7 @@
 
 <!-- TODO: SHIELDS -->
 - 🔭 I’m currently working on [Faithful Tweaks](https://faithfultweaks.com)
-- 🌱 I’m currently learning **Vim**
+<!-- - 🌱 I’m currently learning **Vim** -->
 - 👨‍💻 All of my projects are available at [my website](https://banakin.github.io/)
 - 💬 Ask me about **anything!**
 - ⚡ Fun fact: **If it wasn't obvious already, I love programming**
