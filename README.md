@@ -102,10 +102,10 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/39) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-2. 💪 Opened PR [#39](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/39) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 🗣 Commented on [#1](https://github.com/Banakin/SteamAuth/issues/1) in [Banakin/SteamAuth](https://github.com/Banakin/SteamAuth)
-4. 🗣 Commented on [#1](https://github.com/Banakin/SteamAuth/issues/1) in [Banakin/SteamAuth](https://github.com/Banakin/SteamAuth)
+1. 🎉 Merged PR [#40](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/40) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+2. 💪 Opened PR [#40](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/40) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+3. 🎉 Merged PR [#39](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/39) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+4. 💪 Opened PR [#39](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/39) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 5. 🗣 Commented on [#1](https://github.com/Banakin/SteamAuth/issues/1) in [Banakin/SteamAuth](https://github.com/Banakin/SteamAuth)
 <!--END_SECTION:activity-->
 
