@@ -3,7 +3,7 @@
 [website]: https://banakin.github.io
 [twitter]: https://twitter.com/Banakin
 [youtube]: https://youtube.com/Banakin
-[dribbble]: https://https://dribbble.com/Banakin
+[dribbble]: https://dribbble.com/Banakin
 [spotify]: https://open.spotify.com/user/Banakin900
 
 <!-- Languages -->
