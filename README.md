@@ -101,11 +101,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock/pull/1) in [FaithfulTweaks/FaithfulTweaksBedrock](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock)
-2. 🎉 Merged PR [#48](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/48) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 💪 Opened PR [#48](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/48) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. 🎉 Merged PR [#47](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/47) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 💪 Opened PR [#47](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/47) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. 🎉 Merged PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+2. 💪 Opened PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+3. 🎉 Merged PR [#1](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock/pull/1) in [FaithfulTweaks/FaithfulTweaksBedrock](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock)
+4. 🎉 Merged PR [#48](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/48) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. 💪 Opened PR [#48](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/48) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
