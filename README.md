@@ -101,11 +101,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#854](https://github.com/PKief/vscode-material-icon-theme/issues/854) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. 💪 Opened PR [#853](https://github.com/PKief/vscode-material-icon-theme/pull/853) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-3. 🎉 Merged PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. 💪 Opened PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 🎉 Merged PR [#1](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock/pull/1) in [FaithfulTweaks/FaithfulTweaksBedrock](https://github.com/FaithfulTweaks/FaithfulTweaksBedrock)
+1. 💪 Opened PR [#855](https://github.com/PKief/vscode-material-icon-theme/pull/855) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 🗣 Commented on [#854](https://github.com/PKief/vscode-material-icon-theme/issues/854) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+3. 💪 Opened PR [#853](https://github.com/PKief/vscode-material-icon-theme/pull/853) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+4. 🎉 Merged PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. 💪 Opened PR [#52](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/52) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
