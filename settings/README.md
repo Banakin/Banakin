@@ -23,20 +23,20 @@ https://github.com/lextm/windowsterminal-shell
 Here are some oneliners to run if you want to set your profile.
 ### Ubuntu
 ```bash
-wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/MySettings/master/zsh/ubuntu.zshrc && source ~/.zshrc
+wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/zsh/ubuntu.zshrc && source ~/.zshrc
 ```
 
 ### macOS
 ```bash
-wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/MySettings/master/zsh/macos.zshrc && source ~/.zshrc
+wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/zsh/macos.zshrc && source ~/.zshrc
 ```
 
 ### Kali
 ```bash
-wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/MySettings/master/zsh/kali.zshrc && source ~/.zshrc
+wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/zsh/kali.zshrc && source ~/.zshrc
 ```
 
 ### Vim
 ```bash
-wget -O ~/.vimrc https://raw.githubusercontent.com/Banakin/MySettings/master/vim/vimrc
+wget -O ~/.vimrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/vim/vimrc
 ```
