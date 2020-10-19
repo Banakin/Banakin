@@ -1,4 +1,4 @@
-<h1 align="center">A Simple Guide My Branding</h1>
+<h1 align="center">A Simple Guide To My Branding</h1>
 
 <!-- Usernames -->
 ## Usernames
