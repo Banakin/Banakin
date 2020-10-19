@@ -1,4 +1,6 @@
-{
+{   
+    "copyOnSelect": false,
+    "copyFormatting": false,
     "initialCols": 100,
     "initialRows": 25,
     "profiles":
