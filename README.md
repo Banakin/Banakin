@@ -101,11 +101,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/poychang/github-dark-theme/pull/270) in [poychang/github-dark-theme](https://github.com/poychang/github-dark-theme)
-2. 💪 Opened PR [#269](https://github.com/poychang/github-dark-theme/pull/269) in [poychang/github-dark-theme](https://github.com/poychang/github-dark-theme)
-3. ❗️ Opened issue [#67](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/67) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. ❗️ Opened issue [#65](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/65) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 🎉 Merged PR [#64](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/64) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. 🎉 Merged PR [#69](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/69) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+2. ❗️ Closed issue [#68](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/68) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+3. 💪 Opened PR [#69](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/69) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+4. 🗣 Commented on [#68](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/68) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. ❗️ Opened issue [#68](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/68) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
