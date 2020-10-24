@@ -103,9 +103,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#67](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/67) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 2. 🗣 Commented on [#67](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/67) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 🎉 Merged PR [#70](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/70) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. 💪 Opened PR [#70](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/70) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 🎉 Merged PR [#1](https://github.com/Vanilla-Extract/VanillaExtract/pull/1) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+3. 🗣 Commented on [#67](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/67) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+4. 🎉 Merged PR [#70](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/70) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. 💪 Opened PR [#70](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/70) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
