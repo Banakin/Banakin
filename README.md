@@ -101,11 +101,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/79) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-2. ❗️ Closed issue [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 🗣 Commented on [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. ❗️ Opened issue [#80](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/80) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+2. 🗣 Commented on [#79](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/79) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+3. ❗️ Closed issue [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 4. 🗣 Commented on [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. 🗣 Commented on [#67](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/67) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+5. 🗣 Commented on [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
