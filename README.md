@@ -101,11 +101,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
-2. 💪 Opened PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
-3. ❗️ Opened issue [#80](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/80) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. 🗣 Commented on [#79](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/79) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-5. ❗️ Closed issue [#78](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/78) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. ❗️ Opened issue [#6](https://github.com/Vanilla-Extract/VanillaExtract/issues/6) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+2. 💪 Opened PR [#5](https://github.com/Vanilla-Extract/VanillaExtract/pull/5) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+3. 🎉 Merged PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+4. 💪 Opened PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+5. ❗️ Opened issue [#80](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/80) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
