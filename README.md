@@ -37,6 +37,7 @@
 [adobexd]: https://www.adobe.com/products/xd.html
 [figma]: https://figma.com/
 [ubuntu]: https://ubuntu.com/
+[shopify]: https://www.shopify.com/
 
 <!-- Radar -->
 [rust]: https://www.rust-lang.org/
@@ -91,6 +92,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/>][adobexd]
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>][figma]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
+[<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40"/>][shopify]
 
 
 ### On My Radar 🔎
