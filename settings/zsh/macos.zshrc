@@ -1,6 +1,6 @@
 # PATHS
 # Flutter path
-export PATH="$PATH:/Users/banakin/flutter/bin"
+export PATH="$PATH:/Users/banakin/src/flutter/bin"
 # Python 3 homebrew path (python, pip, etc.)
 export PATH=/usr/local/opt/python/libexec/bin:$PATH
 
