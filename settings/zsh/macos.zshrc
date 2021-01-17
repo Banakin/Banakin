@@ -14,7 +14,6 @@ export ZSH="/Users/banakin/.oh-my-zsh"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Powerlevel9K options
-# Plugins
 POWERLEVEL9K_DISABLE_RPROMPT=false
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="\uE0B0 "
