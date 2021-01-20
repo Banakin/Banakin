@@ -19,6 +19,10 @@ Place the icons anywhere and then add the `icon` field to a profile. Here is an 
 If you would like the option to right click and open a new "Windows Terminal here" visit this repositoy:
 https://github.com/lextm/windowsterminal-shell
 
+## ZSH Plugins
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+
 ## One Line Updaters
 Here are some oneliners to run if you want to set your profile.
 ### Ubuntu
@@ -29,11 +33,6 @@ wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settin
 ### macOS
 ```bash
 wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/zsh/macos.zshrc && source ~/.zshrc
-```
-
-### Kali
-```bash
-wget -O ~/.zshrc https://raw.githubusercontent.com/Banakin/Banakin/master/settings/zsh/kali.zshrc && source ~/.zshrc
 ```
 
 ### Vim
