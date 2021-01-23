@@ -103,11 +103,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#85](https://github.com/ComplianceTweaks/ComplianceTweaks/issues/85) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
-2. ❗️ Opened issue [#6](https://github.com/Vanilla-Extract/VanillaExtract/issues/6) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
-3. 💪 Opened PR [#5](https://github.com/Vanilla-Extract/VanillaExtract/pull/5) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
-4. 🎉 Merged PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
-5. 💪 Opened PR [#81](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/81) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+1. ❌ Closed PR [#83](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/83) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+2. ❌ Closed PR [#84](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/84) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+3. ❌ Closed PR [#86](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/86) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+4. 🎉 Merged PR [#87](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/87) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
+5. 💪 Opened PR [#87](https://github.com/ComplianceTweaks/ComplianceTweaks/pull/87) in [ComplianceTweaks/ComplianceTweaks](https://github.com/ComplianceTweaks/ComplianceTweaks)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
