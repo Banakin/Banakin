@@ -11,6 +11,9 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 # Get gpg to work
 export GPG_TTY=$(tty)
 
+# Turn on ssh-agent by default
+eval "$(ssh-agent -s)"
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
