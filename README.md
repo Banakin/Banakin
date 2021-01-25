@@ -103,11 +103,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/93) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-2. 💪 Opened PR [#93](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/93) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-3. 🎉 Merged PR [#92](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/92) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-4. 💪 Opened PR [#92](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/92) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-5. 🎉 Merged PR [#91](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/91) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+1. 🎉 Merged PR [#94](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/94) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+2. 💪 Opened PR [#94](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/94) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+3. 🎉 Merged PR [#93](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/93) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+4. 💪 Opened PR [#93](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/93) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+5. 🎉 Merged PR [#92](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/92) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
