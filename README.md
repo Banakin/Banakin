@@ -103,11 +103,11 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/103) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-2. 💪 Opened PR [#103](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/103) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-3. 🎉 Merged PR [#102](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/102) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-4. 💪 Opened PR [#102](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/102) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
-5. 🎉 Merged PR [#101](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer/pull/101) in [Compliance-Resource-Pack/ComplianceTweaksServer](https://github.com/Compliance-Resource-Pack/ComplianceTweaksServer)
+1. ❗️ Opened issue [#6](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/6) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
+2. ❗️ Opened issue [#4](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/4) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
+3. ❗️ Opened issue [#3](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/3) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
+4. ❗️ Opened issue [#2](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/2) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
+5. ❗️ Opened issue [#1](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/1) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
 <!--END_SECTION:activity-->
 
 ### Spotify 🎧
