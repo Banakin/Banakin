@@ -1,7 +1,7 @@
 <!-- My Links -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
-[website]: https://banakin.github.io
-[twitter]: https://twitter.com/Banakin
+[website]: https://foxyote.com/
+[twitter]: https://twitter.com/RayFoxyote
 [youtube]: https://youtube.com/Banakin
 [dribbble]: https://dribbble.com/Banakin
 [spotify]: https://open.spotify.com/user/Banakin900
@@ -45,19 +45,19 @@
 [zig]: https://ziglang.org/
 
 <!-- Title -->
-<h1 align="center">Hey! 👋 I'm <a href="https://banakin.github.io/">Banakin</a></h1>
+<h1 align="center">Hey! 👋 I'm <a href="https://foxyote.com/">Ray</a></h1>
 
 <!-- TODO: SHIELDS -->
 - 🔭 I’m currently working on [Compliance Tweaks](https://github.com/orgs/Compliance-Resource-Pack/teams/compliance-tweaks)<!-- - 🌱 I’m currently learning **Vim** -->
-- 👨‍💻 All of my projects are available at [my website](https://banakin.dev/)
+- 👨‍💻 [my website](https://foxyote.com/) is currently under construction!
 - 💬 Ask me about **anything!**
 - ⚡ Fun fact: **If it wasn't obvious already, I love programming**
 
 ### My Socials 💬
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+<!-- [<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble] -->
 
 <br />
 
@@ -114,5 +114,5 @@
 [<img src="https://spotify-now-playing-sepia.vercel.app/api/spotify" alt="Spotify" width="350" />][spotify]
 
 ### Github Stats 📄
-[<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banakin&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=RayFoxyote&count_private=true&show_icons=true&theme=tokyonight" alt="Ray's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFoxyote&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
