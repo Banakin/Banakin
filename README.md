@@ -49,7 +49,7 @@
 
 <!-- TODO: SHIELDS -->
 - 🔭 I’m currently working on [Compliance Tweaks](https://github.com/orgs/Compliance-Resource-Pack/teams/compliance-tweaks)<!-- - 🌱 I’m currently learning **Vim** -->
-- 👨‍💻 [my website](https://foxyote.com/) is currently under construction!
+- 👨‍💻 [my website][website] is currently under construction!
 - 💬 Ask me about **anything!**
 - ⚡ Fun fact: **If it wasn't obvious already, I love programming**
 
