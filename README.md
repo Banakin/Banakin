@@ -1,7 +1,7 @@
 <!-- My Links -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
-[website]: https://foxyote.com/
-[twitter]: https://twitter.com/RayFoxyote
+[website]: https://banakin.dev/
+[twitter]: https://twitter.com/Banakin9
 [youtube]: https://youtube.com/Banakin
 [dribbble]: https://dribbble.com/Banakin
 [spotify]: https://open.spotify.com/user/Banakin900
@@ -45,7 +45,7 @@
 [zig]: https://ziglang.org/
 
 <!-- Title -->
-<h1 align="center">Hey! 👋 I'm <a href="https://foxyote.com/">Ray</a></h1>
+<h1 align="center">Hey! 👋 I'm <a href="https://banakin.dev/">Banakin</a></h1>
 
 <!-- TODO: SHIELDS -->
 - 🔭 I’m currently working on [Compliance Tweaks](https://github.com/orgs/Compliance-Resource-Pack/teams/compliance-tweaks)<!-- - 🌱 I’m currently learning **Vim** -->
@@ -114,5 +114,5 @@
 [<img src="https://spotify-now-playing-sepia.vercel.app/api/spotify" alt="Spotify" width="350" />][spotify]
 
 ### Github Stats 📄
-[<img src="https://github-readme-stats.vercel.app/api?username=RayFoxyote&count_private=true&show_icons=true&theme=tokyonight" alt="Ray's github stats" width="550px" />][stats]
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFoxyote&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banakin&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
