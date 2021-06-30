@@ -15,6 +15,7 @@
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [cpp]: https://en.wikipedia.org/wiki/C++
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[java]: https://www.java.com/
 [python]: https://www.python.org/
 [php]: https://www.php.net/
 [bash]: https://www.gnu.org/software/bash/
@@ -70,6 +71,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>][c]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>][cpp]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>][csharp]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>][java]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>][python]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>][php]
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>][bash]
