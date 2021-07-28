@@ -39,6 +39,7 @@
 [figma]: https://figma.com/
 [ubuntu]: https://ubuntu.com/
 [shopify]: https://www.shopify.com/
+[jekyll]: https://jekyllrb.com/
 
 <!-- Radar -->
 [rust]: https://www.rust-lang.org/
@@ -95,7 +96,7 @@
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>][figma]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
 [<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40"/>][shopify]
-
+[<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>][jekyll]
 
 ### On My Radar 🔎
 [<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>][rust]
