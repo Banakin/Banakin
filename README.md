@@ -47,19 +47,7 @@
 [zig]: https://ziglang.org/
 
 <!-- Title -->
-<h1 align="center">Hey! 👋 I'm <a href="https://banakin.dev/">Banakin</a></h1>
-
-<!-- TODO: SHIELDS -->
-- 🔭 I’m currently working on [Compliance Tweaks](https://github.com/Compliance-Resource-Pack)<!-- - 🌱 I’m currently learning **Vim** -->
-- 👨‍💻 [my website][website] is currently under construction!
-- 💬 Ask me about **anything!**
-- ⚡ Fun fact: **If it wasn't obvious already, I love programming**
-
-### My Socials 💬
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble] -->
+<h1 align="center">Hey! I'm Banakin</h1>
 
 <br />
 
@@ -102,19 +90,6 @@
 [<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>][rust]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="deno" width="40" height="40"/>][deno]
 [<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/>][zig]
-
-
-### Recent Activity ⚡
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Compliance-Resource-Pack/Website/pull/9) in [Compliance-Resource-Pack/Website](https://github.com/Compliance-Resource-Pack/Website)
-2. ❗️ Opened issue [#6](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/6) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
-3. ❗️ Opened issue [#4](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/4) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
-4. ❗️ Opened issue [#3](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/3) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
-5. ❗️ Opened issue [#2](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x/issues/2) in [Compliance-Resource-Pack/ComplianceTweaks-Java-32x](https://github.com/Compliance-Resource-Pack/ComplianceTweaks-Java-32x)
-<!--END_SECTION:activity-->
-
-### Spotify 🎧
-[<img src="https://spotify-now-playing-sepia.vercel.app/api/spotify" alt="Spotify" width="350" />][spotify]
 
 ### Github Stats 📄
 [<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
