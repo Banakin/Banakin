@@ -19,6 +19,7 @@
 [python]: https://www.python.org/
 [php]: https://www.php.net/
 [bash]: https://www.gnu.org/software/bash/
+[rust]: https://www.rust-lang.org/
 
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
@@ -40,31 +41,32 @@
 [ubuntu]: https://ubuntu.com/
 [shopify]: https://www.shopify.com/
 [jekyll]: https://jekyllrb.com/
+[tauri]: https://tauri.app/
 
 <!-- Radar -->
-[rust]: https://www.rust-lang.org/
 [deno]: https://deno.land/
 [zig]: https://ziglang.org/
 
 <!-- Title -->
-<h1 align="center">Hey! I'm Banakin</h1>
+<h1 align="center">Hey! I'm Brendan</h1>
 
 <br />
 
-### Languages I'm Familiar With 👨‍💻
+### Languages I have worked with
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>][typescript]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>][css]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>][java]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>][python]
+[<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>][rust]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>][php]
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>][dart]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>][c]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>][cpp]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>][csharp]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>][java]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>][python]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>][php]
 
-### Technologies I'm Familiar With 🔧
+### Technologies I have worked with
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>][vscode]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>][vim]
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
@@ -84,9 +86,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
 [<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40"/>][shopify]
 [<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>][jekyll]
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/tauri-1.svg" alt="tauri" width="40" height="40"/>][tauri]
 
-### On My Radar 🔎
-[<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>][rust]
+### On My Radar
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="deno" width="40" height="40"/>][deno]
 [<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/>][zig]
 
