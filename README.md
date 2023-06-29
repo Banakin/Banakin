@@ -86,7 +86,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
 [<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40"/>][shopify]
 [<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>][jekyll]
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/tauri-1.svg" alt="tauri" width="40" height="40"/>][tauri]
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/t/tauri-1.svg" alt="tauri" width="40" height="40"/>][tauri]
 
 ### On My Radar
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="deno" width="40" height="40"/>][deno]
