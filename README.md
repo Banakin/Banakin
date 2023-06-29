@@ -91,7 +91,3 @@
 ### On My Radar
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="deno" width="40" height="40"/>][deno]
 [<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/>][zig]
-
-### Github Stats 📄
-[<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banakin&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
